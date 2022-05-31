@@ -5,17 +5,17 @@
 ### Kick:
 kicks the specified user
 
-syntax:
+syntax:\n
   $ kick @user
 
 ### Ban:
 bans the specified user
 
-syntax:
+syntax:\n
   $ ban @user
 
 ### Unban:
 unbans the specified user
 
-syntax:
+syntax:\n
   $ unban @user
