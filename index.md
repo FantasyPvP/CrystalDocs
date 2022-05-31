@@ -43,3 +43,49 @@ unmutes the specified user
 syntax:
 
 >  $ mute @user
+
+### Rickroll:
+
+displays a Rickroll gif in the chat.
+
+Don't. Just don't. Please, just don't.
+
+syntax:
+
+>  $ rickroll
+
+### Help:
+
+displays a list of all commands available to run through the bot
+
+syntax:
+
+>  $ help
+
+### Rules:
+
+for now this command displays a generic set of rules for the server
+- the option to make a custom set of rules will be added later
+
+syntax:
+
+>  $ rules
+
+### Calc:
+
+a useful calculator utility
+
+can solve:
+  - brackets
+  - square roots
+  - powers
+  - standard arithmetic operations including integer and modulo
+unfortunately at the moment there are some issues with BIDMAS such as division always executing before multiplication (will be fixed later)
+
+syntax:
+
+>  $ calc [equation]
+
+eg:
+
+>  $ calc 5+3
