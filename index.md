@@ -89,3 +89,11 @@ syntax:
 eg:
 
 >  $ calc 5+3
+
+### Docs:
+
+opens the documentation for the bot
+
+syntax:
+
+>  $ docs 
