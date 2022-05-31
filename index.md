@@ -5,31 +5,31 @@
 ### Kick:
 kicks the specified user
 
->syntax:
+syntax:
 >  $ kick @user
 
 ### Ban:
 bans the specified user
 
->syntax:
+syntax:
 >  $ ban @user
 
 ### Unban:
 unbans the specified user
 
->syntax:
+syntax:
 >  $ unban @user
 
 ### Mute:
 mutes the specified user
 (this requires the role 'Muted' to already exist with the permissions required)
 
->syntax:
+syntax:
 >  $ mute @user
 
 ### Unmute:
 unmutes the specified user
 (this requires the user to already have the 'Muted' role)
 
->syntax:
+syntax:
 >  $ mute @user
