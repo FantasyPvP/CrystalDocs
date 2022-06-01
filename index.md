@@ -96,4 +96,45 @@ opens the documentation for the bot
 
 syntax:
 
->  $ docs 
+>  $ docs
+
+### Rickrollvc
+
+causes the bot to join the voice channel that the user is in and play a rickroll
+
+syntax:
+
+>  $ rickrollvc
+
+### Play
+
+causes the bot to play the specified song in the voice channel that the user is in
+  - this must be a youtube link
+
+syntax:
+
+>  $  play [song]
+
+### Pause
+
+pauses the music that the bot is playing
+
+syntax:
+
+>  $ pause
+
+### Resume
+
+resumes the music that the bot is playing
+
+syntax:
+
+>  $ resume
+
+### Stop
+
+disconnects the bot from the voice channel
+
+syntax:
+
+>  $ stop
